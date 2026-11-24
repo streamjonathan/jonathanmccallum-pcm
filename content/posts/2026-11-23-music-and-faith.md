@@ -3,7 +3,7 @@ title: "Music and Faith"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/emmaohmagod.jpg
 ---
 
 I dey spend plenty time dey listen to musicians for Instagram. Na some of dem I don dey listen to lately.
@@ -14,70 +14,68 @@ Paul do something like dis for Athens. E use dia poetry and dia language, di way
 
 No be all of dem dey sing worship songs. Most of dem just dey sing about life, and faith na part of am. Na dat one I like about dem. Tap one card to watch di song for Instagram.
 
-I still make reaction video for SonReal new song. You fit watch am here:
-
-[My reaction to SonReal's new video](https://www.youtube.com/shorts/wePjZMr6beE)
+Dis songs na Pidgin. Dis na musicians wey dey sing for Pidgin — some dey sing worship songs, some dey sing about life, and faith na part of am.
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">A funny rap wey give hope, about to know good music when you hear am. No judge book by im cover.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DdRq7eDTmAo/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/emmaohmagod.jpg" alt="Emma OMG" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Emma OMG</span>
+<span class="ig-card__note">E dey sing 'Looking Unto Jesus' for worship.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">“I go save seat for you.” Gentle song, and chair wey open.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DbYqumftMiM/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/officialperejason.jpg" alt="Pere Jason" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Pere Jason</span>
+<span class="ig-card__note">E dey sing Pidgin songs for English — 'God no go shame us.'</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">Her song “Notice” don finally come out, more than one year after she first play am.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DHCIrp_trYC/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/thisisprinx.jpg" alt="Prinx Emmanuel" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Prinx Emmanuel</span>
+<span class="ig-card__note">Im gospel song 'Your Way' for open field.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">“Your Heart in the Fire” — lo-fi folk from di North, honest, weathered, raw.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DRNgmJ2iPRP/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/bisimanuel.jpg" alt="Bisi Manuel" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Bisi Manuel</span>
+<span class="ig-card__note">E dey sing 'This Jesus' for worship.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">E give im life to God last year. Now e wan tell im story, and praise am as e dey do am.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DJ10440sax3/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/emmasings14.jpg" alt="Emmasings" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Emmasings</span>
+<span class="ig-card__note">E dey lead praise and worship for studio.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">Im new song “Not Alone”, and room for San Francisco dey sing every word.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Dci86reqAv2/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/gracee_idowu.jpg" alt="Grace Idowu" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Grace Idowu</span>
+<span class="ig-card__note">E dey sing worship medley for stage.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">“Secret Fort” — childhood days for back of di church, evening bells, best friends and imaginary worlds.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DRIDc_WDckf/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/festizie.jpg" alt="Festizie" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Festizie</span>
+<span class="ig-card__note">Im gospel song 'Holiday'.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">New song from Luke 15, di prodigal son. “Let Me Go”.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DTCexcHjO8A/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/officialchinyereudoma.jpg" alt="Chinyere Udoma" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Chinyere Udoma</span>
+<span class="ig-card__note">'If E No Be God' — na God dey do am.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">“Jesus is kind. Tour na gift.” Her songs, played for back home.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DI7CNAkswZK/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/yadahworld.jpg" alt="Yadah" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Yadah</span>
+<span class="ig-card__note">E dey sing worship for night open air.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">Her song “keep going” — dreamy retro Jesus music, don come out now.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DOit7w4jaCM/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/adagoldofficial.jpg" alt="Ada Gold" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Ada Gold</span>
+<span class="ig-card__note">'When Would You Bless Me' — gospel song.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">“Everybody know somebody wey need to hear about Jesus.”</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DNyqG852LUF/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/bidemiolaoba.jpg" alt="Bidemi Olaoba" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Bidemi Olaoba</span>
+<span class="ig-card__note">E dey lead worship for church hall.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">Songs about her mental health journey. And dem still be pop punk.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DWM1y4hgMJ2/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/adeyinkaalaseyori.jpg" alt="Adeyinka Alaseyori" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Adeyinka Alaseyori</span>
+<span class="ig-card__note">Gospel music minister dey sing for room.</span></span>
 </a>
 </div>
 
