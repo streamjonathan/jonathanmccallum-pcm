@@ -20,6 +20,7 @@ eleventyExcludeFromCollections: true
 
 <section class="featured" data-fade aria-labelledby="featured-heading">
   <h2 id="featured-heading">Di latest writing</h2>
+  <p class="featured-row__hint">More new writing — swipe for di next one <span aria-hidden="true">→</span></p>
   <ul class="featured-row" data-auto-carousel>
   {% for post in collections.publishedPosts | reverse %}
     {% if loop.index <= 10 %}
@@ -53,6 +54,7 @@ eleventyExcludeFromCollections: true
 <hr class="rule-gold">
 <section class="watch-section" data-fade aria-labelledby="watch-heading">
   <h2 id="watch-heading">Watch</h2>
+  <p class="row-hint">More videos — swipe for di next one <span aria-hidden="true">→</span></p>
   <ul class="watch-row">
   {% set shown = [] %}
   {% for post in collections.publishedPosts | reverse %}
